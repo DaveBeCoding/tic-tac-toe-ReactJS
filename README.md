@@ -1,5 +1,3 @@
-##GREAT REACT Mini App 'reactjs.org'
-
 # tic-tac-toe-ReactJS
 
 Learnign ReactJS with Tic Tac Toe
