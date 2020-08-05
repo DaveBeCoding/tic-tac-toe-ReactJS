@@ -1,3 +1,5 @@
+##GREAT REACT Mini App 'reactjs.org'
+
 # tic-tac-toe-ReactJS
 
 Learnign ReactJS with Tic Tac Toe
@@ -11,8 +13,6 @@ Custome elements with `JSX`.
 `Global` Components `Styling`.
 
 Time travel between moves once game is finished, forward or backwards.
-
-##GREAT REACT Mini app 'reactjs.org'
 
 **In the `project directory`, you can run:**
 
