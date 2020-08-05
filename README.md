@@ -1,4 +1,4 @@
-# tic-tac-toe-ReactJS
+# Tic Tac Toe ReactJS
 
 Learnign ReactJS with Tic Tac Toe
 
