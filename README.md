@@ -4,11 +4,11 @@ Learnign ReactJS with Tic Tac Toe
 
 Custome elements with `JSX`.
 
-`Function Component`s with no `Hooks`, or `State`.
+`Function Component` with no `Hooks`, or `State`.
 
-`Class Component`s with `State`.
+`Class Component` with `State`.
 
-`Global` Components `Styling`.
+`Global` Component `Styling`.
 
 Time travel between moves once game is finished, forward or backwards.
 
